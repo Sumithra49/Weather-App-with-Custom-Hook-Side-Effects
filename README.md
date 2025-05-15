@@ -1,7 +1,7 @@
 # Weather-App-with-Custom-Hook-Side-Effects
 A simple and interactive weather application built with React, utilizing a custom hook and OpenWeatherMap API. Users can enter a city name and get real-time weather updates including temperature, condition, humidity, and wind speed.
 
-🚀 Features
+# 🚀 Features
 🔍 Search weather by city name
 
 🌡️ Display temperature, humidity, wind speed, and weather condition
@@ -19,7 +19,7 @@ A simple and interactive weather application built with React, utilizing a custo
 🌈 Weather icons based on condition 
  # folder structure
  ![image](https://github.com/user-attachments/assets/3c3e6ebb-9fff-4cde-9fc2-270537c0907b)
- 🛠️ Tech Stack
+ # 🛠️ Tech Stack
 # Frontend
 - React – JavaScript library for building user interfaces.
 
